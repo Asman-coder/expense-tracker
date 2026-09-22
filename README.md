@@ -11,8 +11,7 @@ A simple CLI-based expense tracker to manage daily expenses. Built with Python a
 ## 🛠️ Tech Used
 - Python 3
 - CSV modul
-python expense
-
+  
 ## 📊 Future Improvements
 - Add monthly reports
 - Add charts with matplotlib
